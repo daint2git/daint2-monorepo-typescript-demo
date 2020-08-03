@@ -1,0 +1,28 @@
+{
+  "name": "@daint2-monorepo-typescript-demo/integration",
+  "version": "0.0.1",
+  "private": true,
+  "description": "> TODO: description",
+  "author": "daint2 <daint2dev@gmail.com>",
+  "homepage": "https://github.com/daint2git/daint2-monorepo-typescript-demo#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daint2git/daint2-monorepo-typescript-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "bugs": {
+    "url": "https://github.com/daint2git/daint2-monorepo-typescript-demo/issues"
+  },
+  "dependencies": {
+    "@daint2-monorepo-typescript-demo/pkg-1": "^0.0.1",
+    "@daint2-monorepo-typescript-demo/pkg-2": "^0.0.1",
+    "@daint2-monorepo-typescript-demo/pkg-3": "^0.0.1"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2"
+  }
+}
