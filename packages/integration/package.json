@@ -1,6 +1,6 @@
 {
   "name": "@daint2-monorepo-typescript-demo/integration",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "> TODO: description",
   "author": "daint2 <daint2dev@gmail.com>",
@@ -18,9 +18,9 @@
     "url": "https://github.com/daint2git/daint2-monorepo-typescript-demo/issues"
   },
   "dependencies": {
-    "@daint2-monorepo-typescript-demo/pkg-1": "^0.0.1",
-    "@daint2-monorepo-typescript-demo/pkg-2": "^0.0.1",
-    "@daint2-monorepo-typescript-demo/pkg-3": "^0.0.1"
+    "@daint2-monorepo-typescript-demo/pkg-1": "^0.0.2",
+    "@daint2-monorepo-typescript-demo/pkg-2": "^0.0.2",
+    "@daint2-monorepo-typescript-demo/pkg-3": "^0.0.2"
   },
   "devDependencies": {
     "ts-node": "^8.10.2"

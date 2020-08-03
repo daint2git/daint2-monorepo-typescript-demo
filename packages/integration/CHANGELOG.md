@@ -5,12 +5,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [0.0.2](https://github.com/daint2git/daint2-monorepo-typescript-demo/compare/v0.0.1...v0.0.2) (2020-08-03)
 
-**Note:** Version bump only for package @daint2-monorepo-typescript-demo/pkg-1
-
-
-
-
-
-## 0.0.1 (2020-08-03)
-
-**Note:** Version bump only for package @daint2-monorepo-typescript-demo/pkg-1
+**Note:** Version bump only for package @daint2-monorepo-typescript-demo/integration
