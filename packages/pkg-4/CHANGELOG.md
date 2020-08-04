@@ -9,19 +9,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 * pkg-4 ([60fb852](https://github.com/daint2git/daint2-monorepo-typescript-demo/commit/60fb8522568a145ae684531d6e630b8692fd7922))
-
-
-
-
-
-## [0.0.2](https://github.com/daint2git/daint2-monorepo-typescript-demo/compare/v0.0.1...v0.0.2) (2020-08-03)
-
-**Note:** Version bump only for package root
-
-
-
-
-
-## 0.0.1 (2020-08-03)
-
-**Note:** Version bump only for package root
