@@ -1,0 +1,27 @@
+{
+  "name": "@daint2-monorepo-typescript-demo/pkg-5",
+  "version": "0.2.0",
+  "description": "> TODO: description",
+  "author": "daint2 <daint2dev@gmail.com>",
+  "homepage": "https://github.com/daint2git/daint2-monorepo-typescript-demo#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daint2git/daint2-monorepo-typescript-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "tsc -b ."
+  },
+  "bugs": {
+    "url": "https://github.com/daint2git/daint2-monorepo-typescript-demo/issues"
+  }
+}
