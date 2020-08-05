@@ -5,7 +5,5 @@
 ## Usage
 
 ```
-const pkg5 = require('pkg-5');
-
-// TODO: DEMONSTRATE API
+yarn add @daint2-monorepo-typescript-demo/pkg-5
 ```
