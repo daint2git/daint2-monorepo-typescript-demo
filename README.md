@@ -24,3 +24,8 @@ lerna add ts-node --scope=@daint2-monorepo-typescript-demo/integration --dev
 # -W: --ignore-workspace-root-check
 yarn add @commitlint/cli @commitlint/config-conventional @commitlint/config-lerna-scopes -W --dev
 ```
+
+```bash
+# change log
+yarn lerna-changelog
+```
