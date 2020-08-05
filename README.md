@@ -29,3 +29,8 @@ yarn add @commitlint/cli @commitlint/config-conventional @commitlint/config-lern
 # change log
 yarn lerna-changelog
 ```
+
+```bash
+# publish with --conventional-commits
+lerna publish --conventional-commits
+```
