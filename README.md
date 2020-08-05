@@ -28,9 +28,11 @@ yarn add @commitlint/cli @commitlint/config-conventional @commitlint/config-lern
 ```bash
 # change log
 yarn lerna-changelog
+
+yarn lerna-changelog --from=v1.0.0 --to=v2.0.0
 ```
 
 ```bash
 # publish with --conventional-commits
-lerna publish --conventional-commits
+yarn lerna publish --conventional-commits
 ```
