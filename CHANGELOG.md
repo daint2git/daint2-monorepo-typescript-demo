@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.4](https://github.com/daint2git/daint2-monorepo-typescript-demo/compare/v0.4.3...v0.4.4) (2020-08-08)
+
+
+### Bug Fixes
+
+* fix string ([6b5b745](https://github.com/daint2git/daint2-monorepo-typescript-demo/commit/6b5b74542639b75a089f6b6b820be78bedfb1d82))
+* script ([d76e5e8](https://github.com/daint2git/daint2-monorepo-typescript-demo/commit/d76e5e82086a23e85d971314e59333df46a7117c))
+* script ([9a71b18](https://github.com/daint2git/daint2-monorepo-typescript-demo/commit/9a71b18babb49a2f95ef5fde92621bc5beb5f21b))
+
+
+
+
+
 ## [0.4.1](https://github.com/daint2git/daint2-monorepo-typescript-demo/compare/v0.4.0...v0.4.1) (2020-08-05)
 
 
